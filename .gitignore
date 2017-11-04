@@ -1,0 +1,8 @@
+nbproject
+.~lock.*
+.buildpath
+.settings/
+composer.lock
+.idea
+.project
+.classpath
